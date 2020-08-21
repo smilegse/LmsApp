@@ -1,0 +1,9 @@
+D:\Working\GitHub\LmsApp\RequestModel\bin\Debug\netstandard2.0\RequestModel.deps.json
+D:\Working\GitHub\LmsApp\RequestModel\bin\Debug\netstandard2.0\RequestModel.dll
+D:\Working\GitHub\LmsApp\RequestModel\bin\Debug\netstandard2.0\RequestModel.pdb
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.AssemblyInfoInputs.cache
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.AssemblyInfo.cs
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.csproj.CoreCompileInputs.cache
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.dll
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.pdb
+D:\Working\GitHub\LmsApp\RequestModel\obj\Debug\netstandard2.0\RequestModel.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "85E9pnmI0YBDIDtwzmQA2Rx+JQq6Qk2djB4v+S3QMReqz3rxBzeFiT2dPgc68UZb4f/Yrew6PyjrvaIvbmEx8w==",
+  "success": true,
+  "projectFilePath": "D:\\Working\\GitHub\\LmsApp\\RequestModel\\RequestModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddique\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Siddique\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
