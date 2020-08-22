@@ -63,3 +63,5 @@ D:\Working\GitHub\LmsApp\LmsApp.Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\
 D:\Working\GitHub\LmsApp\LmsApp.Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Working\GitHub\LmsApp\LmsApp.Server\obj\Debug\netcoreapp3.1\LmsApp.Server.csproj.CoreCompileInputs.cache
 D:\Working\GitHub\LmsApp\LmsApp.Server\obj\Debug\netcoreapp3.1\LmsApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Working\GitHub\LmsApp\LmsApp.Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Working\GitHub\LmsApp\LmsApp.Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll

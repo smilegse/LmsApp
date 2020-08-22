@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Common;
+using Microsoft.EntityFrameworkCore;
+using Model.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -16,9 +18,18 @@ namespace Model
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Course>().HasIndex(x => x.Name);
-            modelBuilder.Entity<Course>().HasIndex(x => x.Topic);
-            modelBuilder.Entity<Course>().HasIndex(x => x.IsFree);
+            modelBuilder.ApplyConfiguration(new CourseConfiguration());
+            //modelBuilder.ApplyConfiguration(new EntityConfiguration());
+
+            
+            //modelBuilder.Entity<Course>().HasIndex(x => x.Name);
+            //modelBuilder.Entity<Course>().HasIndex(x => x.Topic);
+            //modelBuilder.Entity<Course>().HasIndex(x => x.IsFree);
+            //modelBuilder.Entity<Course>().Property(b => b.AverageRating).HasDefaultValue(0);
+
+            //modelBuilder.Entity<Entity>().Property(b => b.Modified).ValueGeneratedOnAddOrUpdate();
+            //modelBuilder.Entity<Entity>().Property(b => b.Created).HasDefaultValue(DateTime.Now);
+
         }
     }
 }

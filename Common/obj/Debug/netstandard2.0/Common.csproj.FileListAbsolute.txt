@@ -3,6 +3,7 @@ D:\Working\GitHub\LmsApp\Common\bin\Debug\netstandard2.0\Common.dll
 D:\Working\GitHub\LmsApp\Common\bin\Debug\netstandard2.0\Common.pdb
 D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
 D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
-D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
 D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.dll
 D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Working\GitHub\LmsApp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
