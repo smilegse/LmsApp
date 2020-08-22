@@ -2,8 +2,9 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Common
+namespace Common.Model
 {
+    [Serializable]
     public class Entity
     {
         public Entity()
@@ -26,5 +27,9 @@ namespace Common
 
         [Column(TypeName = "nvarchar(100)")]
         public string ModifiedBy { get; set; }
+
+        public bool IsActive { get; set; } // can be toggled
+
+        public bool IsDeleted { get; set; } // can not be toggled
     }
 }

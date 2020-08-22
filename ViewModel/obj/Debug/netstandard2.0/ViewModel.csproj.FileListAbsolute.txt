@@ -7,3 +7,8 @@ D:\Working\GitHub\LmsApp\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.Cor
 D:\Working\GitHub\LmsApp\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
 D:\Working\GitHub\LmsApp\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb
 D:\Working\GitHub\LmsApp\ViewModel\obj\Debug\netstandard2.0\ViewModel.csprojAssemblyReference.cache
+D:\Working\GitHub\LmsApp\ViewModel\bin\Debug\netstandard2.0\Common.dll
+D:\Working\GitHub\LmsApp\ViewModel\bin\Debug\netstandard2.0\Model.dll
+D:\Working\GitHub\LmsApp\ViewModel\bin\Debug\netstandard2.0\Model.pdb
+D:\Working\GitHub\LmsApp\ViewModel\bin\Debug\netstandard2.0\Common.pdb
+D:\Working\GitHub\LmsApp\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CopyComplete
